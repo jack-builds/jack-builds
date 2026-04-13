@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jacks-lab
-- 👀 I’m interested in all things computers, especially web development, cybersecurity and hacking, networking, and fooling around with raspberry pis.
-- 🌱 I’m currently learning all things networking. 
+- 👀 I’m interested in all things computers, especially web development, cybersecurity and hacking, networking, and SaaS.
+- 🌱 I’m currently building a SaaS, <a href="studyaced.com">Studyaced.com</a>. 
 - ⚡ Fun fact: I also enjoy 3d printing. Check me out at <a href="https://www.printables.com/@customCraft3D">Printables.com</a>.
 
 <!---
