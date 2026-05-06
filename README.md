@@ -1,4 +1,4 @@
-# ⚡ Fast. Clean. Intentional.
+# Fast. Clean. Intentional.
 
 I am a developer focused on building lightweight, high-performance desktop experiences. I believe software should be purposeful, not bloated.
 
