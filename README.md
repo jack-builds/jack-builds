@@ -34,7 +34,3 @@ I am currently seeking to contribute to projects that value clean code and inten
 - **Status:** 🟢 Open to open-source collaborations / 🔴 Not seeking employment.
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_800x5.png" width="100%" />
-</p>
