@@ -4,7 +4,7 @@ I am a developer focused on building lightweight, high-performance desktop exper
 
 ---
 
-### 🛠 The Arsenal
+### The Arsenal
 *Current focus: Mastering the bridge between system-level performance and elegant UI.*
 
 | Category | Tools |
