@@ -15,10 +15,10 @@ I am a developer focused on building lightweight, high-performance desktop exper
 
 ---
 
-### 🛰 Current Orbit
-- 🛠 **Project Alpha:** Reimagining the UX for System Virtualization (Private Beta).
-- 🧠 **AI Integration:** Previously built Gemini-powered study architects.
-- 🌳 **Open Source:** Recently started my contribution journey—focused on tools that improve developer workflows.
+### Current Orbit
+-  **Project Alpha:** Reimagining the UX for System Virtualization (Private Beta).
+-  **AI Integration:** Previously built Gemini-powered study architects.
+-  **Open Source:** Recently started my contribution journey—focused on tools that improve developer workflows.
 
 ---
 
@@ -30,7 +30,7 @@ I am currently seeking to contribute to projects that value clean code and inten
 ---
 
 ### 📫 Get in Touch
-- **Technical Inquiries:** [Your-Proton-Email-Here@proton.me](mailto:Your-Proton-Email-Here@proton.me)
+- **Technical Inquiries:** [jackslab11@proton.me](mailto:jackslab11@proton.me)
 - **Status:** 🟢 Open to open-source collaborations / 🔴 Not seeking employment.
 
 ---
