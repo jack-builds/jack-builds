@@ -22,14 +22,14 @@ I am a developer focused on building lightweight, high-performance desktop exper
 
 ---
 
-### 📈 Growth Mindset
+### Growth Mindset
 > "I am not here to be an expert today; I am here to build something better than I did yesterday."
 
 I am currently seeking to contribute to projects that value clean code and intentional design. If you're building something that moves the needle, I'm interested.
 
 ---
 
-### 📫 Get in Touch
+### Get in Touch
 - **Technical Inquiries:** [jackslab11@proton.me](mailto:jackslab11@proton.me)
 - **Status:** 🟢 Open to open-source collaborations / 🔴 Not seeking employment.
 
